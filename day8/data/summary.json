@@ -1,0 +1,3 @@
+{
+    "summary": "用户正在学习Python，已进入AI Agent阶段，从Tool Calling入手，练习文件为day7/main.py，运行命令为python -m day7.main。用户配置了校园通知助手系统提示，用于查询奖学金、助学金、比赛、教务等通知。用户已了解Agent基本概念、Tool Calling完整流程、Memory概念（短期/长期/摘要/向量记忆）及其与Tool Calling、Planning的协作关系。用户自称小明，多次测试助手能否记住其身份和学习方向，助手有时能通过摘要回答（Python、AI Agent、Tool Calling），有时表示无记录。用户还询问“什么是agent”“什么是tool calling”“什么是memory”，助手均详细解答。"
+}
